@@ -1,0 +1,394 @@
+[
+  {
+    "First Name": "Janice",
+    "Last name": "Stillhard",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-02-Cochise-County-East",
+    "Grouping": "Southern Arizona"
+  },
+  {
+    "First Name": "Darron",
+    "Last name": "Smith",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-07-East-Valley",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Bahram",
+    "Last name": "Goharriz",
+    "Imperative": "Study Circles",
+    "Special Focus": "Higher Level Books",
+    "Cluster": "AZ-07-East-Valley",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Jesus",
+    "Last name": "Acosta",
+    "Imperative": "Study Circles",
+    "Special Focus": "Youth",
+    "Cluster": "AZ-07-East-Valley",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Assal",
+    "Last name": "Moazezi",
+    "Imperative": "Junior Youth Program",
+    "Special Focus": "",
+    "Cluster": "AZ-07-East-Valley",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Roya",
+    "Last name": "Habich",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "AZ-09-Scottsdale",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Elham",
+    "Last name": "Mottahed",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-09-Scottsdale",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Roohollah",
+    "Last name": "Hajbandeh",
+    "Imperative": "Study Circles",
+    "Special Focus": "Higher Level Books",
+    "Cluster": "AZ-09-Scottsdale",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Amy",
+    "Last name": "Roberts",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "AZ-11-Greater-Tucson",
+    "Grouping": "Southern Arizona"
+  },
+  {
+    "First Name": "Jean Marie",
+    "Last name": "Habimana",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-11-Greater-Tucson",
+    "Grouping": "Southern Arizona"
+  },
+  {
+    "First Name": "Maryam",
+    "Last name": "Rouhani",
+    "Imperative": "Junior Youth Program",
+    "Special Focus": "",
+    "Cluster": "AZ-11-Greater-Tucson",
+    "Grouping": "Southern Arizona"
+  },
+  {
+    "First Name": "Shahrzad",
+    "Last name": "Saririan",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "AZ-13-Phoenix",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Chandra",
+    "Last name": "Susilo",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "AZ-13-Phoenix",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Leanne",
+    "Last name": "Eleff",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-13-Phoenix",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Alexander",
+    "Last name": "Christian",
+    "Imperative": "Study Circles",
+    "Special Focus": "Higher Level Books",
+    "Cluster": "AZ-13-Phoenix",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Shima",
+    "Last name": "Golshan",
+    "Imperative": "Junior Youth Program",
+    "Special Focus": "",
+    "Cluster": "AZ-13-Phoenix",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Bettie",
+    "Last name": "Johnston",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-18-Pinal-County",
+    "Grouping": "Southern Arizona"
+  },
+  {
+    "First Name": "Gary",
+    "Last name": "Boivin",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-19-Prescott",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Claudia",
+    "Last name": "Talcott",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-21-West-Valley",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Ilana",
+    "Last name": "Moreno-Dunn",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-21-West-Valley",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Andrietta",
+    "Last name": "Lee",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "AZ-27-Flagstaff",
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Loretta",
+    "Last name": "O'Brien",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "CO-01-Denver-Metro",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Dayyan",
+    "Last name": "Sisson",
+    "Imperative": "Study Circles",
+    "Special Focus": "Youth",
+    "Cluster": "CO-01-Denver-Metro",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Delara",
+    "Last name": "Marchbank",
+    "Imperative": "Study Circles",
+    "Special Focus": "Books 1-7",
+    "Cluster": "CO-01-Denver-Metro",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Cheryl",
+    "Last name": "Chamberlain",
+    "Imperative": "Study Circles",
+    "Special Focus": "Higher Level Books",
+    "Cluster": "CO-01-Denver-Metro",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Hannah",
+    "Last name": "Ighani",
+    "Imperative": "Junior Youth Program",
+    "Special Focus": "",
+    "Cluster": "CO-01-Denver-Metro",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Carole",
+    "Last name": "Hitti",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "CO-08-Southwest-Colorado",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Rankin Hayes",
+    "Last name": "Joan",
+    "Imperative": "Children's Classes, Junior Youth Program, Study Circles",
+    "Special Focus": "",
+    "Cluster": "CO-10-Rifle-Glenwood-Springs",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Linda",
+    "Last name": "Hofer",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "CO-12-Pueblo",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Wendy",
+    "Last name": "Mathis-Burnes",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "CO-13-Colorado-Springs-El-Paso",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Roberta",
+    "Last name": "Metge",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "CO-15-Boulder",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Kathryn",
+    "Last name": "Lucatelli",
+    "Imperative": "Junior Youth Program",
+    "Special Focus": "",
+    "Cluster": "CO-15-Boulder",
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Anisa",
+    "Last name": "Hirahara-Picotte",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "NA-07-Farmington",
+    "Grouping": "Northern Arizona"
+  },
+  {
+    "First Name": "Ann",
+    "Last name": "Mitchell",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "NM-02-Las-Cruces",
+    "Grouping": "New Mexico"
+  },
+  {
+    "First Name": "Diana",
+    "Last name": "Vaughan",
+    "Imperative": "",
+    "Special Focus": "",
+    "Cluster": "NM-27-Sandoval-County",
+    "Grouping": "New Mexico"
+  },
+  {
+    "First Name": "Mahvash",
+    "Last name": "Yazdani",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "NM-29-Los-Alamos-Santa-Fe",
+    "Grouping": "New Mexico"
+  },
+  {
+    "First Name": "Lauren",
+    "Last name": "Fernandez",
+    "Imperative": "Study Circles",
+    "Special Focus": "Higher Level Books",
+    "Cluster": "NM-32-Albuquerque-Metro",
+    "Grouping": "New Mexico"
+  },
+  {
+    "First Name": "Amelia",
+    "Last name": "Cardena",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "NM-32-Albuquerque-Metro",
+    "Grouping": "New Mexico"
+  },
+  {
+    "First Name": "Mariana",
+    "Last name": "Caldwell",
+    "Imperative": "Junior Youth Program",
+    "Special Focus": "",
+    "Cluster": "NM-32-Albuquerque-Metro",
+    "Grouping": "New Mexico"
+  },
+  {
+    "First Name": "JoAnn",
+    "Last name": "Gometz",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "NM-32-Albuquerque-Metro",
+    "Grouping": "New Mexico"
+  },
+  {
+    "First Name": "Donna",
+    "Last name": "Sosnowski",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "NV-01-Reno",
+    "Grouping": "Nevada"
+  },
+  {
+    "First Name": "Audrey",
+    "Last name": "Balkenbush",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "NV-01-Reno",
+    "Grouping": "Nevada"
+  },
+  {
+    "First Name": "Elmira",
+    "Last name": "Hakemiamjad",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "NV-04-Clark-County-West",
+    "Grouping": "Nevada"
+  },
+  {
+    "First Name": "Gisoo",
+    "Last name": "Amjad",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "NV-04-Clark-County-West",
+    "Grouping": "Nevada"
+  },
+  {
+    "First Name": "Susan",
+    "Last name": "Tofigh",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "NV-04-Clark-County-West",
+    "Grouping": "Nevada"
+  },
+  {
+    "First Name": "Niloufar",
+    "Last name": "Abizadeh",
+    "Imperative": "Children's Classes",
+    "Special Focus": "",
+    "Cluster": "UT-01-Salt-Lake",
+    "Grouping": "Utah"
+  },
+  {
+    "First Name": "Niala",
+    "Last name": "Masrouri",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "UT-01-Salt-Lake",
+    "Grouping": "Utah"
+  },
+  {
+    "First Name": "Nilofar",
+    "Last name": "Ghaderi",
+    "Imperative": "Study Circles",
+    "Special Focus": "",
+    "Cluster": "UT-01-Salt-Lake",
+    "Grouping": "Utah"
+  },
+  {
+    "First Name": "Muli",
+    "Last name": "Latu",
+    "Imperative": "Junior Youth Program",
+    "Special Focus": "",
+    "Cluster": "UT-01-Salt-Lake",
+    "Grouping": "Utah"
+  }
+]

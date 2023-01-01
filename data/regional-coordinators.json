@@ -1,0 +1,61 @@
+[
+  {
+    "First Name": "Hope",
+    "Last Name": "Krummell",
+    "Imperative": ["Study Circles"],
+    "Grouping": "Colorado"
+  },
+  {
+    "First Name": "Glenn",
+    "Last Name": "Hollingsworth",
+    "Imperative": ["Study Circles"],
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Esther",
+    "Last Name": "Kumi",
+    "Imperative": ["Study Circles"],
+    "Grouping": "New Mexico"
+  },
+  {
+    "First Name": "Yassy",
+    "Last Name": "Weixelman",
+    "Imperative": [
+      "Study Circles",
+      "Junior Youth Program",
+      "Children's Classes"
+    ],
+    "Grouping": "Nevada"
+  },
+  {
+    "First Name": "Ebbie",
+    "Last Name": "Wirick",
+    "Imperative": ["Junior Youth Program"],
+    "Grouping": "Central Arizona"
+  },
+  {
+    "First Name": "Jinous",
+    "Last Name": "Dehghani",
+    "Imperative": [
+      "Study Circles",
+      "Junior Youth Program",
+      "Children's Classes"
+    ],
+    "Grouping": "Southern Arizona"
+  },
+  {
+    "First Name": "Sholeh",
+    "Last Name": "Sisson",
+    "Imperative": ["Children's Classes"]
+  },
+  {
+    "First Name": "Tyson",
+    "Last Name": "Tsosie",
+    "Imperative": [
+      "Study Circles",
+      "Junior Youth Program",
+      "Children's Classes"
+    ],
+    "Grouping": "Northern Arizona"
+  }
+]

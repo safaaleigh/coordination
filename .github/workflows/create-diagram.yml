@@ -1,1 +1,14 @@
-
+on:
+  workflow_dispatch:
+  
+jobs:
+  visualization:
+    name: visualization
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2.6.0
+    - name: Repo Visualizer
+      uses: githubocto/repo-visualizer@0.8.2
+      with:
+        root_path: four-corners
