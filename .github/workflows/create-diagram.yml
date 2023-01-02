@@ -12,3 +12,4 @@ jobs:
       uses: githubocto/repo-visualizer@0.8.2
       with:
         root_path: four-corners
+        file_colors:  '{"js": "#DF7D3A","ts": "#F3BC4B", "mjs": "#E9E97D"}'
