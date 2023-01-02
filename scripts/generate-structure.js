@@ -16,22 +16,22 @@ function getExtension(imperative) {
   }
 
   if (!imperative || imperative.length > 1) {
-    return "all.js";
+    return "all.json";
   }
 
   if (imperative.includes("Study Circles")) {
-    return "sc.js";
+    return "sc.mjs";
   }
 
   if (imperative.includes("Junior Youth Program")) {
-    return "jyp.js";
+    return "jyp.ts";
   }
 
   if (imperative.includes("Children's Classes")) {
     return "cc.js";
   }
 
-  return "all.js";
+  return "all.json";
 }
 
 function simplifyClusterName(cluster) {
