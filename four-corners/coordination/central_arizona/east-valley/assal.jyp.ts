@@ -1,3 +1,5 @@
+require('../ebbie.jyp');
+
 {
   "First Name": "Assal",
   "Last name": "Moazezi",
